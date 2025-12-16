@@ -1,4 +1,4 @@
-#define SIG 2        // Ultrasonico 3 pines
+#define SIG 2        
 #define PIR 3        // Sensor movimiento
 #define BOTON 4
 
